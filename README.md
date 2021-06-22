@@ -9,7 +9,7 @@ Not only does it calculate your selling fees and profit based on ultra-specific 
 # What do people say about it?
 "the best" - "most accurate" - "I love this calculator" - "I use it for all my items."
 
-"As main 3Dsellers programmer of this application, I speak with all users who contact us with questions about this calculator. There has not been one time I have not heard something along the lines of the quotes listed above."
+"As the 3Dsellers teammate who programmed this application, I speak with all users who contact us with questions about this calculator. There has not been one time I have not heard something along the lines of the quotes listed above when conversating about it. And hats off to my collegue for the great UI design."
 
 # How do I use it to calculate my eBay fees and selling price?
 Visit the [eBay Fees Calculator](https://www.3dsellers.com/ebay-fee-calculator) on 3Dsellers.com and use it for free any time you need. 
